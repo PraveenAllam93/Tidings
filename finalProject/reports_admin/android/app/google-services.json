@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "268093521180",
+    "firebase_url": "https://tidingsproject-fc592.firebaseio.com",
+    "project_id": "tidingsproject-fc592",
+    "storage_bucket": "tidingsproject-fc592.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268093521180:android:8acb2e52721c136587ced9",
+        "android_client_info": {
+          "package_name": "com.example.reports_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268093521180-4cghkdq1ngl2icd5c1c0leuelis1jcka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9C-2j_6v33MoqnHktHT_PQOijjEJiqp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268093521180-4cghkdq1ngl2icd5c1c0leuelis1jcka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268093521180:android:f74b4cf8e3ef663287ced9",
+        "android_client_info": {
+          "package_name": "com.example.tidings_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268093521180-4cghkdq1ngl2icd5c1c0leuelis1jcka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9C-2j_6v33MoqnHktHT_PQOijjEJiqp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268093521180-4cghkdq1ngl2icd5c1c0leuelis1jcka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268093521180:android:f43094a4dcfcdc6a87ced9",
+        "android_client_info": {
+          "package_name": "com.example.tidings_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268093521180-4cghkdq1ngl2icd5c1c0leuelis1jcka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9C-2j_6v33MoqnHktHT_PQOijjEJiqp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268093521180-4cghkdq1ngl2icd5c1c0leuelis1jcka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

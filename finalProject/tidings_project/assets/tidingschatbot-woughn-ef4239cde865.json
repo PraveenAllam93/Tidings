@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tidingschatbot-woughn",
+  "private_key_id": "ef4239cde8656ef25fba1f541ab4ceb9fa592b04",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDKgo773xfYVCQv\nbeQLLw60ju+fdDx03XW9Mz0OHkmMm2SyOI6jQfBkaaNe6FaNZRzraHFgdByjUPs3\nCmY5O/c2uOZPqmtOqVFI9RUZgXnm2XqcNx3W2ni3zNh4FV0mizVfhVTtjWU1Nv/u\nu+i6VN3Z6yNUh2KtyN9cIUGjIcg5ysREXLTz2R0hRJxtyuQUkDm60TMFk1nuoQ9L\nZWAQ6eM5hwDzheQ/RjVwxqeTqMtKmDEDiG7NM0TubHc0WUjc/TU/wmgkR4eMT6Ge\nobr7uyMaHG0AStJzp/SjG5Qtf07HLwl2FGSuhJ7K7Cmj0yJqDkIF7N6s23Gsh+hj\nqM1KegJZAgMBAAECggEAAQ0RRumqgd+jo0vztp4A6D/az2KgDkYT+e5pJf93rEGT\n7TcogKXX9tjhgy/gFo3H76TYsvAr6LyD3LLXQvtbH0Fxj2yTcABdQOxl2zVRie+d\nmJSJOUD2dEpUUCWGhmKLb6gx7VyPyzJ7vLZ29Xid3HBl14t4Vu21QMffaA18sLE7\nESptBv53jsjvBFVzu82enOeoJdZBlD3Qwqhb5/KZ65TwRwyyYHRZY9ogx635eJAh\nFXv7Dj7apMH5XXn0VNbo/KCKvhxOfZqDADa70Z98oJgsyTTwekFIuZqCBcS+G2Pk\n3++uHSeW30ck7KafanYkECdink/GpN+5HpLFhLkGPQKBgQDxb4sApfalpD9BmxC9\nqZAiS43/6D/nKB2T1GxLpUm52y3YXJKlHoSMCQoZ4BfLmzB9frQZ2R9F4bYUV9Uo\nmQiQZ4QuT0yKo402oJlBpDV0mZqFx/y3EPv9D4yucSQlkjuhnItutDi82gt2Qxq/\nZ0dgDqP/UFFkskcAHli27VjH7wKBgQDWueQo3DBTELQBYc2PYNfIHyx5Rk8MsGP6\naOfh+pCrweiV8bbuRKienAfFN8h44iHCAIipuOdaMcV0J8DNob6V7OsorPJdNI7I\n2NET5i7w/o9FjGAxR8GzYxt9V8nj+RAFYjPgYiq/NH59/PZETgzpfET1TukFtv5b\n2CghEOvSNwKBgCeeCA8pLJnto7ueOFcG9fHKuBhgAexqdsAFQWgATWLEBnfUaPPT\nWCiqaw/n57+vTXuqSN9c83bCHOClsQKiafdYJSZ8OLEfOVLXc46D5YmmkuaU9HEN\nxmu2G32cbzQDFOnmCDM4O38xwGO9iywRRHMMs/h3M4P0hRYN5LzPoZvdAoGAdL3m\nRSzJfS/Unfe9mdlOF/iS5nCKY9y2zpsgjyT6aNdpC7S5/zsG7gzo0JmufcJ8FgzS\nQGxOJCRxNOC0G1h31O1VQO0ea/w6MQpoSchY9x9/Z5GVbtWTg2M7u97x3ec4haTJ\njZHxqbjxmK/ieGpy7LJqj3BSko/WJLsVvjyD6esCgYAIC9bqSqqvRbYKwp02yKE7\nRBzHu2W1zzWZ6umpUB3oqApe/8VQsHLJlBEFmqTxu9ofREoPxrfOyM0pHRbNR0Gi\nlhWgkNxHt5uddnD4jIE6nHWzGs77wyNjRbwYXMVmgDtm1nYJgpf67K2Ncn7rfUve\nGplNPAztXxnIRcwDUixt4w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-ivbsxo@tidingschatbot-woughn.iam.gserviceaccount.com",
+  "client_id": "101781112969178395030",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-ivbsxo%40tidingschatbot-woughn.iam.gserviceaccount.com"
+}
